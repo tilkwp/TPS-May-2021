@@ -14,3 +14,5 @@ ____
 |----------------|:---------:|
 | LightGBM |1.08770 |
 | XGBoost | 1.08674 | 
+
+Были использованы следующие библиотеки: Pandas, Numpy, Matplotlib, Seaborn, XGBoost, LightGBM, Sklearn, Optuna

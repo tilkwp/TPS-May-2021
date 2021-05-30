@@ -8,3 +8,9 @@ ____
 
 <img src="https://latex.codecogs.com/png.image?\dpi{110}&space;\bg_white&space;\text{log&space;loss}&space;=&space;-\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}),&space;" title="\bg_white \text{log loss} = -\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}), " />
 
+____
+
+| Модель | Public Score|
+|----------------|:---------:|
+| LightGBM |1.08770 |
+| XGBoost | 1.08674 | 

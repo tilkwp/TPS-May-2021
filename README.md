@@ -6,4 +6,4 @@ ____
 
 В данном соревнованиии решается задача мультиклассовой классификации. В качестве метрики рассматриваются функция логистических потерь
 
-<img src="https://latex.codecogs.com/svg.image?\text{log&space;loss}&space;=&space;-\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}),&space;" title="\text{log loss} = -\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}), " />
+<img src="https://latex.codecogs.com/svg.image?\bg_white&space;\text{log&space;loss}&space;=&space;-\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}),&space;" title="\bg_white \text{log loss} = -\frac{1}{N}\sum_{i=1}^N\sum_{j=1}^My_{ij}\log(p_{ij}), " />
